@@ -1,0 +1,22 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+
+.fullwidth {
+	width: 100%;
+}
+
+#footer {
+	padding: 10px;
+	height: 50px;
+}
+
+#footer .f-right {
+	margin-left: 40px;
+}
+
+#footer .f-right {
+	position: relative;
+	float: right;
+	top: -30px;
+	font-size: 13px;
+}
