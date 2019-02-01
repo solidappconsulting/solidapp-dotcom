@@ -1,17 +1,68 @@
 ---
 layout: page
-title: Hope for Holyoke
-tagline: Recovery Center (413) 561-1020
+title: Software Design & Development Services
+tagline: Solid App Consulting
 ---
 
 
-{% include JB/setup %} We welcome people in all stages of recovery as well as family members and friends affected by addiction.
+{% include JB/setup %}
 
-![]({{ site.url }}/assets/images/h4h_building_front.jpg){: .largewidth}
 
-We are located at: 100 Suffolk Street, Holyoke, MA 01040&nbsp;
+I am located in the greater Springfield, MA area.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2955.354372224753!2d-72.61247094881442!3d42.20687017909527!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e6dc1f24cb9a4f%3A0xd93423361b05edc1!2s100+Suffolk+St%2C+Holyoke%2C+MA+01040!5e0!3m2!1sen!2sus!4v1504894634781" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe><!--
+<h3>Email me at: solidappconsulting@gmail.com</h3>
+
+<h3>Consulting Services Provided:</h3>
 <ul>
-  {% for post in site.posts %}
-*  [{{ post.title }}]({{ post.url }})  {% endfor %}-->
+    <li>Solution Analysis</li>
+    <li>Data Architecture and Modeling</li>
+    <li>Application Architecture Design</li>
+    <li>Integration Strategy</li>
+    <li>Security and Compliance</li>
+    <li>API Design</li>
+</ul>
+
+<h3>About me:</h3>
+
+<p>
+    Senior full stack Java developer with 10+ years development experience.
+<br />
+<br />
+    Main expertise is full stack web application development beginning to end,
+    API micro services design/development, complex mult-threading
+    system design/development, with Agile methodologies.
+<br />
+<br />
+    <h4>Experienced with AWS services:</h4>
+        -EC2 machine provisioning, VPC security groups, Load balancers,
+        WAF application firewalls, ElastiCaches, RDS databases,
+        Elastic Beanstalk applications, Lambdas applications, API gateways,
+        S3 storages, Cloud watch logs, Route 53, etc...
+<br />
+<br />
+    <h4>Research Analysis Design Experience:</h4>
+        -Perform goal/solution/use case analysis, create design specification
+        documents, provided work/cost estimation, utilize industry best practices
+        with proven application designs and techniques.
+<br />
+<br />
+    <h4>Language, Framework, and Technology Experience:</h4>
+        -Familiar with Linux, Windows, Mac, Java, PHP, JavaScript, NodeJS, BASH,
+        SQL, MySQL, PostGres, MSSQL,
+        Spring Boot/Cloud/Security/MVC/ORM/JDBC/Transaction/AOP/Jersey/AWS/Validation,
+        EJB, Servlets, Filters, Hibernate, HQL, XHTML, HTML5, CSS, AJAX,
+        jQuery, JSP, JSTL, Freemarker, Thymeleaf, FaceLets, JSF, RichFaces,
+        Gradle, Ant, Git, Maven, Subversion, Tomcat, Jboss, Junit, TestNG, Teamcity,
+        and JasperReports.
+<br />
+<br />
+    <h4>Work ethics:</h4>
+        -Solid team player, works remotely and onsite, ability to multi-task,
+        focus on specific tasks, truthful, and communicates well.
+<br />
+<br />
+    <h4>Extra:</h4>
+        -Served 4 years in Air Force with honorable discharge and achieved eagle
+        scout rank.
+
+</p>
