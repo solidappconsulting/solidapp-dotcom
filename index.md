@@ -33,6 +33,10 @@ I am located in the greater Springfield, MA area.
     system design/development, and familiar with Agile methodologies.
 <br />
 <br />
+    <h4>Things I've built and worked on:</h4>
+    -Micro service Java Spring/Jersey APIs, ASR/NLP systems, enterprise e-commerce sites, Multi-threaded event processing frameworks, CMS systems, ETL systems, JasperReport generation systems with Quartz integration, big data with complex database schema design, and web sites with JQuery, datatables, and Bootstrap.
+<br />
+<br />
     <h4>Experienced with AWS services:</h4>
         -EC2 machine provisioning, VPC security groups, Load balancers,
         WAF application firewalls, ElastiCaches, RDS databases,
