@@ -25,12 +25,12 @@ I am located in the greater Springfield, MA area.
 <h3>About me:</h3>
 
 <p>
-    Senior full stack Java developer with 10+ years development experience.
+    Lead/senior full stack Java developer with 10+ years development experience.
 <br />
 <br />
     Main expertise is full stack web application development beginning to end,
     API micro services design/development, complex multi-threading
-    system design/development, and familiar Agile methodologies.
+    system design/development, and familiar with Agile methodologies.
 <br />
 <br />
     <h4>Experienced with AWS services:</h4>
