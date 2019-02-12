@@ -57,8 +57,8 @@ I am located in the greater Springfield, MA area.
 <br />
 <br />
     <h4>Work ethics:</h4>
-        -Solid team player, works remotely and onsite, ability to multi-task,
-        focus on specific tasks, truthful, and communicates well.
+        -Being a team player, ability to multi-task, complete tasks, truthful, take
+        responsibility for my actions, and communicates well with others.
 <br />
 <br />
     <h4>Extra:</h4>
