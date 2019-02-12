@@ -29,8 +29,8 @@ I am located in the greater Springfield, MA area.
 <br />
 <br />
     Main expertise is full stack web application development beginning to end,
-    API micro services design/development, complex mult-threading
-    system design/development, with Agile methodologies.
+    API micro services design/development, complex multi-threading
+    system design/development, and familiar Agile methodologies.
 <br />
 <br />
     <h4>Experienced with AWS services:</h4>
